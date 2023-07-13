@@ -22,7 +22,13 @@ Work experience
   * Supervisor: Prof. Chuin-Shan Chen
 
 * Summer 2022: Research Assistant
-  * Academic Sinica
+  * Institue of Information Science, Academia Sinica
+  * Engaging in AI compiler, and scheduling algorithm on the heterogeneous platform.
+  * Experienced with model quantization to improve model inference time.
+  * Supervisor: Prof. Ding-Yong Hong and Prof. Jan-Jan Wu
+
+* Summer 2023: Summer Intern
+  * Institue of Information Science, Academia Sinica
   * Engaging in AI compiler, and scheduling algorithm on the heterogeneous platform.
   * Experienced with model quantization to improve model inference time.
   * Supervisor: Prof. Ding-Yong Hong and Prof. Jan-Jan Wu
