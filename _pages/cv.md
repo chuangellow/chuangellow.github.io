@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Graduate Institute of Networking and Multimedia, National Taiwan University, 2022~
+* M.S. in Graduate Institute of Networking and Multimedia, National Taiwan University, 2022~now
 * B.S. in Material Science, National Taiwan University, 2018~2022
 
 Work experience
