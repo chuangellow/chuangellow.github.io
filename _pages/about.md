@@ -15,7 +15,7 @@ Currently I am working with [Prof. Pang-Feng Liu](https://sites.google.com/view/
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[July. 2020]</b> Started my summer intership at <a href="https://homepage.iis.sinica.edu.tw/en/index.html">Institute of Information Science, Academia Sinica</a>.</li>
+  <li> <b>[July. 2023]</b> Started my summer intership at <a href="https://homepage.iis.sinica.edu.tw/en/index.html">Institute of Information Science, Academia Sinica</a>.</li>
 
   <li> <b>[Sep. 2022]</b> Started my graduate study at National Taiwan University as a master student.</li>
 
