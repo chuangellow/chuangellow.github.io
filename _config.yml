@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chih-Hao Huang"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "A second year MS student currently studying Computer Science at National Taiwan University, specializing in AI compiler research and model compression."
   location         : "Taipei, Taiwan"
   employer         :
